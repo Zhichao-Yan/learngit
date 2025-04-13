@@ -1,4 +1,5 @@
 add a charlie.txt in 2025-04
 Creating a new branch is quick and simple.
 fix a bug
-work with A
+work from A and B
+happy weekend
