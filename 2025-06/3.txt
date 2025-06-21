@@ -1,5 +1,6 @@
 ccc news
-xxx news
 ddd news
 ooo news
 bad news
+happy news
+shocking news
