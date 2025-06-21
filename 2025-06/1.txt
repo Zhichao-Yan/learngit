@@ -3,3 +3,5 @@ good afternoon
 good evening
 good night
 good day
+good monday
+good tuesday
