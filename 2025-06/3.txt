@@ -6,3 +6,4 @@ bad news
 happy news
 shocking news
 ok news
+new news
