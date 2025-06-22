@@ -6,3 +6,4 @@ good day
 good monday
 good Tuesday
 good Wensday
+good Friday
